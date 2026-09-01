@@ -1,0 +1,28 @@
+# Unreal Engine generated files
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+.vs/
+
+# Build and packaged outputs
+*.zip
+*.7z
+*.rar
+*.pdb
+*.obj
+*.ilk
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Local editor and OS files
+.idea/
+.vscode/
+*.suo
+*.user
+*.tmp
+*.log
+Thumbs.db
+Desktop.ini

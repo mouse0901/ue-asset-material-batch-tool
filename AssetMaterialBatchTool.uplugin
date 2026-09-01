@@ -1,0 +1,21 @@
+﻿{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "0.3.3",
+  "FriendlyName": "资产材质批处理工具",
+  "Description": "用于批量创建材质实例、绑定纹理并回填静态网格体的 UE 编辑器工具。",
+  "Category": "内容工具",
+  "CreatedBy": "Codex",
+  "CanContainContent": false,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "AssetMaterialBatchTool",
+      "Type": "Editor",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
+
+
+
